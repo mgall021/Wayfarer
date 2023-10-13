@@ -1,0 +1,17 @@
+.header {
+  background-color: gray;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+li {
+  display: flex;
+}
+#home {
+  padding-right: 20px;
+}
