@@ -29,3 +29,6 @@
   li a{
       padding: 14px 16px;
   }
+  a {
+    text-decoration: none;
+  }
