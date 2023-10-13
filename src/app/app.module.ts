@@ -6,13 +6,15 @@ import { HomeComponent } from './home/home.component';
 import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { LandingComponent } from './landing/landing.component';
+import { CarouselComponent } from './landing/carousel/carousel.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    LandingComponent
+    LandingComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
