@@ -4,6 +4,7 @@ import {
   Routes,
 } from '@angular/router';
 
+import { CityComponent } from './home/city/city.component';
 import { HomeComponent } from './home/home.component';
 import { LandingComponent } from './landing/landing.component';
 
@@ -13,8 +14,14 @@ const routes: Routes = [
     component: HomeComponent,
   },
   {
-    path: 'city/:id',
+    path: 'city',
     component: HomeComponent,
+    children: [
+      {
+        path: ':id',
+        component: CityComponent,
+      },
+    ],
   },
   {
     path: '',

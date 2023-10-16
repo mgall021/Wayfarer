@@ -3,14 +3,17 @@ import {
   Component,
   OnInit,
 } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import {
+  ActivatedRoute,
+  RouterModule,
+} from '@angular/router';
 
-import { cities } from '../home/city/cities';
+import { cities } from '../city/cities';
 
 @Component({
   selector: 'app-citylist',
   standalone: true,
-  imports: [NgFor],
+  imports: [NgFor, RouterModule],
   templateUrl: './citylist.component.html',
   styleUrls: ['./citylist.component.css'],
 })

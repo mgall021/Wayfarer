@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
-import { CitylistComponent } from '../citylist/citylist.component';
 import { CityComponent } from './city/city.component';
+import { CitylistComponent } from './citylist/citylist.component';
 
 @Component({
   selector: 'app-home',
