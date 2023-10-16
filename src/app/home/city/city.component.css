@@ -1,9 +1,16 @@
-section {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
+.city {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
 }
 
 img {
-    width: 400px;
+  width: 400px;
+  padding: 10px 20px;
+
 }
+/* .posts {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
+} */

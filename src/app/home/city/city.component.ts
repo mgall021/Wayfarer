@@ -1,10 +1,12 @@
 import { Component, OnInit} from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { cities } from './cities';
+import { NgFor } from '@angular/common';
 
 @Component({
   selector: 'app-city',
   standalone: true,
+  imports: [NgFor],
   templateUrl: './city.component.html',
   styleUrls: ['./city.component.css']
 })
