@@ -7,10 +7,24 @@
 img {
   width: 400px;
   padding: 10px 20px;
-
 }
 /* .posts {
   display: flex;
   flex-direction: column;
   align-content: flex-end;
 } */
+p {
+  overflow: auto;
+  max-width: 100%;
+  text-overflow: ellipsis;
+  width: fit-content;
+  white-space: nowrap;
+}
+
+.img-fluid {
+  height: 200px;
+}
+
+.container img {
+  height: 200px;
+}
