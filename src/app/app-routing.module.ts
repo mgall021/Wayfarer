@@ -9,6 +9,10 @@ const routes: Routes = [
         component: HomeComponent
     },
     {
+        path: "city/:id",
+        component: HomeComponent
+    },
+    {
         path: "",
         component: LandingComponent
     }
