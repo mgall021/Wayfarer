@@ -17,9 +17,14 @@ Search and Filter: Easily find posts by location, category, or keywords.
 
 Responsive Design: Enjoy a seamless experience on desktop and mobile devices.
 
-## Project Development Cycle 
+# Project Development Cycle 
 
-## Sprint 1: Landing Page
+## Client Wireframe
+<img src="./wayfarer_wireframe.png" >
+
+## User Stories
+
+### Sprint 1: Landing Page
 
 **A user should be able to:**
 
@@ -28,7 +33,7 @@ Responsive Design: Enjoy a seamless experience on desktop and mobile devices.
 
 ---
 
-## Sprint 2: HomePage
+### Sprint 2: HomePage
 
 **A user should be able to:**
 
@@ -53,4 +58,13 @@ git clone this project on your local computer
 
 Run `ng serve --open` to generate a new window of the running application!
 
+# Contributers
+
+[Marco Gallegos](https://github.com/mgall021)
+
+[Gabrielle Ynara](https://github.com/GabrielleYnara)
+
+[Ariadna Vanegas-Rubio](https://github.com/avrubio)
+
+[Betselot Bezabah](https://github.com/betselotbz)
 
