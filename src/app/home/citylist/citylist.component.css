@@ -11,3 +11,14 @@
   display: flex;
   flex-direction: column;
 }
+
+.city-list-card {
+  background-color: rgba(177, 177, 177, 0.606);
+  border-radius: 25px;
+  box-shadow: 0 5px 5px gray;
+
+}
+#cities {
+  padding: 30px 40px;
+  margin-right: 3em;
+}
