@@ -1,10 +1,21 @@
 # Wayfarer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+Welcome to Project Wayfarer! This is an exciting new endeavor where our client aims to create a travel community platform for users to share their travel tips and experiences from all around the world. Whether you're a seasoned globetrotter or a first-time traveler, Project Wayfarer is designed to be a space where you can discover hidden gems, and share your own travel stories.
 
-## Development server
+## Introduction
+Project Wayfarer, our code-named travel community, is a web-based platform dedicated to travelers and adventurers. With an emphasis on user-generated content, we provide an opportunity for travelers to:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Share tips, recommendations, and insights about their favorite destinations.
+Discover new places to explore based on fellow travelers' experiences.
+
+This README document serves as a guide to help you understand the project, get started with development, and contribute to making Project Wayfarer a reality.
+
+## Features
+Project Wayfarer is designed to offer the following key features:
+
+Search and Filter: Easily find posts by location, category, or keywords.
+
+Responsive Design: Enjoy a seamless experience on desktop and mobile devices.
 
 ## Code scaffolding
 
