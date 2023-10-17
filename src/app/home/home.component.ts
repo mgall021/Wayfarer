@@ -1,16 +1,13 @@
 import { Component } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
 
 import { CityComponent } from './city/city.component';
+import { CitylistComponent } from './citylist/citylist.component';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CityComponent],
+  imports: [CityComponent, CitylistComponent],
   templateUrl: './home.component.html',
-  styleUrls: ['./home.component.css']
+  styleUrls: ['./home.component.css'],
 })
-
-export class HomeComponent {
-
-}
+export class HomeComponent {}

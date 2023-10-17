@@ -1,9 +1,30 @@
-section {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
+.city {
+  display: flex;
+  margin-top: 20px;
 }
 
-img {
-    width: 400px;
+.city img {
+  width: 400px;
+  height: 250px;
+  padding: 10px;
 }
+/* .posts {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
+} */
+.card-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-decoration: none;
+  color: black;
+}
+
+.post-icon {
+  width: 200px;
+}
+
+

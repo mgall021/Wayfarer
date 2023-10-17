@@ -14,11 +14,11 @@ topics = [{
   body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor."
 },
   {
-    title: "A collaborative project",
-    body:  "mention our names Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor."
+    title: "A Collaborative Project",
+    body:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor."
   },
 {
-  title:"Agile based project done in sprints",
+  title:"Agile Based Project Done In Sprints",
   body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor."
 }
 ]

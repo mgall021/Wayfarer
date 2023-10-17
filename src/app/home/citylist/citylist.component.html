@@ -1,0 +1,24 @@
+<div class="container city-list">
+  <div class="row">
+    <div class="col-5 city-list-card" id="cities">
+      <h3>Cities</h3>
+      <div *ngFor="let city of cities" class="card mb-3" style="max-width: 540px">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="{{ city.url }}" class="img-fluid rounded-start" alt="..." />
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <a routerLink="/city/{{ city.id }}" class="card-title">
+                {{ city.name }}
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 city-card">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>
