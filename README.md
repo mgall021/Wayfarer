@@ -17,6 +17,7 @@ This README document serves as a guide to help you understand the project, get s
 - Git
 - Github
 - Visual Studio Code
+- Vercel Deployment
 
 ## Features
 Project Wayfarer is designed to offer the following key features:
@@ -56,8 +57,16 @@ Responsive Design: Enjoy a seamless experience on desktop and mobile devices.
 4. Click on the title of one of their posts and be redirected to a "show" page for that post.
 5. View post "show" pages with title, author, and content.
 
-
 ---
+
+### Deployment
+[Link to Deployed Website](https://wayfarer-zeta.vercel.app/)
+
+<img width="1104" alt="Screenshot 2023-10-17 at 9 22 26 AM" src="https://github.com/mgall021/Wayfarer/assets/60992738/9f3ff26e-4bc6-4353-8b27-c58fbc0189e3">
+
+
+
+
 
 ## Getting Started
 To get started with Project Wayfarer, follow these steps:
