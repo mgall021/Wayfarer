@@ -1,11 +1,11 @@
 .city {
   display: flex;
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .city img {
   width: 400px;
+  height: 250px;
   padding: 10px;
 }
 /* .posts {
@@ -13,12 +13,14 @@
   flex-direction: column;
   align-content: flex-end;
 } */
-p {
-  overflow: auto;
-  max-width: 100%;
+.card-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
   text-overflow: ellipsis;
-  width: fit-content;
-  white-space: nowrap;
+  text-decoration: none;
+  color: black;
 }
 
 .post-icon {

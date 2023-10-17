@@ -14,7 +14,7 @@ export const cities: Cities[] = [
     url: 'https://imgs.search.brave.com/ffKKkrm_V3IFDaiF-CV031UzeCPORddTPJhcjt9oaJQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTU1/NDQ1MzEyL3Bob3Rv/L2xvbmRvbi1vbi10/aGUtbW92ZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9ZzRD/bEwydGpIQTJOSm5o/M3RlMmM5ZFM5ZHVq/WGs3QkJ6WDBhYU4z/OGRVcz0',
     posts: [
       {
-        title: ' London',
+        title: 'Food Truck Event',
         img: 'https://imgs.search.brave.com/y_QespkopNalyS50WamQ6dr6bDPQ976PQB7fdMqVN7Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWF0aW5nZXVyb3Bl/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOC8wNy9iZWxs/LWFuZC1icmlza2V0/dC5qcGc',
         body:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Sociis natoque penatibus et magnis dis parturient montes nascetur. Ullamcorper a lacus vestibulum sed arcu non odio euismod. Et malesuada fames ac turpis egestas sed. Lacinia at quis risus sed vulputate odio ut. Id ornare arcu odio ut sem nulla pharetra diam. Morbi tempus iaculis urna id volutpat lacus laoreet non. Arcu ac tortor dignissim convallis. Tristique nulla aliquet enim tortor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Nulla facilisi cras fermentum odio eu feugiat. Laoreet suspendisse interdum consectetur libero id faucibus. Amet est placerat in egestas erat. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Nisi lacus sed viverra tellus in hac. Nulla facilisi morbi tempus iaculis urna id. Eu nisl nunc mi ipsum faucibus vitae aliquet. Feugiat in fermentum posuere urna nec tincidunt.<br>' +
