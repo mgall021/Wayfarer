@@ -30,7 +30,7 @@ export const cities: Cities[] = [
       },
       {
         title: 'Best Restuarants in London',
-        date: '2023-08-14',
+        date: new Date('2023-08-14'),
         img: 'https://www.insidehook.com/wp-content/uploads/2019/11/Best_New_Restaurants_SF.png?fit=1200%2C800',
         body:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Sociis natoque penatibus et magnis dis parturient montes nascetur. Ullamcorper a lacus vestibulum sed arcu non odio euismod. Et malesuada fames ac turpis egestas sed. Lacinia at quis risus sed vulputate odio ut. Id ornare arcu odio ut sem nulla pharetra diam. Morbi tempus iaculis urna id volutpat lacus laoreet non. Arcu ac tortor dignissim convallis. Tristique nulla aliquet enim tortor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Nulla facilisi cras fermentum odio eu feugiat. Laoreet suspendisse interdum consectetur libero id faucibus. Amet est placerat in egestas erat. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Nisi lacus sed viverra tellus in hac. Nulla facilisi morbi tempus iaculis urna id. Eu nisl nunc mi ipsum faucibus vitae aliquet. Feugiat in fermentum posuere urna nec tincidunt.<br>' +
@@ -70,6 +70,14 @@ export const cities: Cities[] = [
     url: 'https://imgs.search.brave.com/jxNFo1IBQxQdyE_E2hSzSt_Hr5Gh76PdZkBxAKGhae4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQ5/NDc2NjcwL3Bob3Rv/L3Nhbi1mcmFuY2lz/Y28tc2t5bGluZS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/MnFXT0F3Rkx0aG1L/X2g5eHMtelhMbWhq/ZlhoaFVNYWdSRVEx/SkpENFdNbz0',
     posts: [
       {
+        title: 'Best Clubs in the Bay Area',
+        date: new Date('2023-10-17'),
+        img: 'https://assets1.cbsnewsstatic.com/i/cbslocal/wp-content/uploads/sites/15116056/2016/03/450444843.jpg',
+        body:
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Sociis natoque penatibus et magnis dis parturient montes nascetur. Ullamcorper a lacus vestibulum sed arcu non odio euismod. Et malesuada fames ac turpis egestas sed. Lacinia at quis risus sed vulputate odio ut. Id ornare arcu odio ut sem nulla pharetra diam. Morbi tempus iaculis urna id volutpat lacus laoreet non. Arcu ac tortor dignissim convallis. Tristique nulla aliquet enim tortor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Nulla facilisi cras fermentum odio eu feugiat. Laoreet suspendisse interdum consectetur libero id faucibus. Amet est placerat in egestas erat. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Nisi lacus sed viverra tellus in hac. Nulla facilisi morbi tempus iaculis urna id. Eu nisl nunc mi ipsum faucibus vitae aliquet. Feugiat in fermentum posuere urna nec tincidunt.<br>' +
+          ' Volutpat sed cras ornare arcu dui vivamus. At tellus at urna condimentum mattis pellentesque. Turpis egestas maecenas pharetra convallis posuere morbi leo. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Penatibus et magnis dis parturient montes nascetur ridiculus mus mauris. Massa sed elementum tempus egestas sed sed risus pretium quam. Tempor id eu nisl nunc mi ipsum. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Elit at imperdiet dui accumsan sit amet nulla facilisi morbi. Nam aliquam sem et tortor consequat id porta. Nec tincidunt praesent semper feugiat nibh sed. Egestas fringilla phasellus faucibus scelerisque eleifend donec. Scelerisque mauris pellentesque pulvinar pellentesque habitant. Curabitur vitae nunc sed velit dignissim sodales ut eu sem. Feugiat in ante metus dictum at. Consequat id porta nibh venenatis cras sed felis eget velit. Lectus vestibulum mattis ullamcorper velit sed ullamcorper.',
+      },
+      {
         title: 'Best Restaurants in the Bay Area',
         date: new Date('2023-10-17'),
         img: 'https://ww2.kqed.org/app/uploads/sites/24/2017/07/auberge-1.jpg',
@@ -85,6 +93,14 @@ export const cities: Cities[] = [
     country: 'United States',
     url: 'https://imgs.search.brave.com/C-oLXxKFXDuINk6YDWFNhpooDe5ES5xemyOQ4lN-LrQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTMw/ODc0Mzc5L3Bob3Rv/L3NlYXR0bGUtYXQt/c3Vuc2V0LmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1icFEx/U1pZdzdPQmRaSlNI/amFUTzA0cFJmUXIw/ajRtZ0JubVhJVW1V/Mm1VPQ',
     posts: [
+      {
+        title: 'Best Restuarants in Seattle',
+        date: new Date('2023-08-14'),
+        img: 'https://d1sve9khgp0cw0.cloudfront.net/wp-content/uploads/2020/05/estero-cafe-patio-1200x800.jpg',
+        body:
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Sociis natoque penatibus et magnis dis parturient montes nascetur. Ullamcorper a lacus vestibulum sed arcu non odio euismod. Et malesuada fames ac turpis egestas sed. Lacinia at quis risus sed vulputate odio ut. Id ornare arcu odio ut sem nulla pharetra diam. Morbi tempus iaculis urna id volutpat lacus laoreet non. Arcu ac tortor dignissim convallis. Tristique nulla aliquet enim tortor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Nulla facilisi cras fermentum odio eu feugiat. Laoreet suspendisse interdum consectetur libero id faucibus. Amet est placerat in egestas erat. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Nisi lacus sed viverra tellus in hac. Nulla facilisi morbi tempus iaculis urna id. Eu nisl nunc mi ipsum faucibus vitae aliquet. Feugiat in fermentum posuere urna nec tincidunt.<br>' +
+          ' Volutpat sed cras ornare arcu dui vivamus. At tellus at urna condimentum mattis pellentesque. Turpis egestas maecenas pharetra convallis posuere morbi leo. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Penatibus et magnis dis parturient montes nascetur ridiculus mus mauris. Massa sed elementum tempus egestas sed sed risus pretium quam. Tempor id eu nisl nunc mi ipsum. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Elit at imperdiet dui accumsan sit amet nulla facilisi morbi. Nam aliquam sem et tortor consequat id porta. Nec tincidunt praesent semper feugiat nibh sed. Egestas fringilla phasellus faucibus scelerisque eleifend donec. Scelerisque mauris pellentesque pulvinar pellentesque habitant. Curabitur vitae nunc sed velit dignissim sodales ut eu sem. Feugiat in ante metus dictum at. Consequat id porta nibh venenatis cras sed felis eget velit. Lectus vestibulum mattis ullamcorper velit sed ullamcorper.',
+      },
       {
         title: 'Food & Lifestyle',
         date: new Date('2023-09-13'),
