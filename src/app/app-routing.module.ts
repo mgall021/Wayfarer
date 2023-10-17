@@ -7,6 +7,7 @@ import {
 import { CityComponent } from './home/city/city.component';
 import { HomeComponent } from './home/home.component';
 import { LandingComponent } from './landing/landing.component';
+import { PostComponent } from './post/post.component';
 
 const routes: Routes = [
   {
@@ -20,6 +21,10 @@ const routes: Routes = [
       {
         path: ':id',
         component: CityComponent,
+      },
+      {
+        path: ':id/posts/:postId',
+        component: PostComponent,
       },
     ],
   },
