@@ -1,8 +1,13 @@
 .container {
   margin-top: 20px;
-  display: flexbox;
+  /* display: flexbox; */
 }
 
 .card-title {
   font-size: 28px;
+}
+
+.city-list {
+  display: flex;
+  flex-direction: column;
 }

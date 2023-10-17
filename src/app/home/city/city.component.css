@@ -1,12 +1,12 @@
 .city {
   display: flex;
-  flex-direction: row;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-img {
+.city img {
   width: 400px;
-  padding: 10px 20px;
+  padding: 10px;
 }
 /* .posts {
   display: flex;
@@ -21,10 +21,8 @@ p {
   white-space: nowrap;
 }
 
-.img-fluid {
-  height: 200px;
+.post-icon {
+  width: 200px;
 }
 
-.container img {
-  height: 200px;
-}
+
